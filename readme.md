@@ -1,18 +1,9 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-## About Laravel
+## About Tindak Jogja
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="justify"> Portal “Tindak Jogja” merupakan sebuah portal yang menyediakan informasi-informasi berkaitan dengan objek-objek wisata yang ada di Provinsi Daerah Istimewa Yogyakarta. Di portal tersebut terdapat menu-menu unggulan seperti menu “What to Do”. Menu ini merupakan menu yang akan menyediakan fitur “trip ideas” yaitu ide trip untuk para calon wisatawan yang akan berkunjung ke Jogja. Kemudian ada menu “What to See” yaitu merupakan menu yang menyediakan informasi lokasi wisata yang ada di Jogja dan mengelompokkan berbagai objek wisata dalam suatu tema seperti tema Wisata Kuliner, Wisata Religi, Wisata Alam, dan juga Wisata Angkringan serta Wisata Burjonan serta menampilkan upcoming event yang akan diadakan di Jogja. </p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
